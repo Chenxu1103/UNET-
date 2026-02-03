@@ -7,6 +7,7 @@
 **参考视频**: `20200526_015047_030746.mp4` (800x448分辨率)
 
 ![37c6b896e3af435b41a8dcdf869ff010](https://github.com/user-attachments/assets/84383ce0-6a31-4541-82a4-afed6a9e3c79)
+<img width="1912" height="991" alt="image" src="https://github.com/user-attachments/assets/07bf7e45-0f7c-4ac4-b2f2-932a37aaa336" />
 
 
 **检测性能**:
